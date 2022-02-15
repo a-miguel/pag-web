@@ -122,7 +122,7 @@ article img{
 
 
 /*-----------------------------------*/
-@media (min-width: 700px) {
+@media screen and (min-width: 700px) {
   body{color:#fff;}
   nav { grid-area: nav; margin-bottom: 10px; margin-left: 5px; background-color: #505063;}
   nav li {display: block;}
