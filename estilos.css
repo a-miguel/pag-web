@@ -145,7 +145,6 @@ section p{text-align: justify; padding: 2px;}
   flex-wrap: wrap;
   justify-content:center;
   display:-webkit-flex;
-  display: flex;
   -webkit-flex-wrap: wrap;
 }
 
@@ -164,3 +163,4 @@ main{ max-width: 100%;
 "footer footer footer footer footer";
 }
 }
+
